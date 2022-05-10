@@ -1,0 +1,8 @@
+Variable b not declared
+Error :b at 4 
+Valid syntax
+Name	size	type	lineno	scope	value
+a	2	2	3	1	5
+c	4	3	6	1	6.5
+d	4	3	7	1	5.44
+e	4	3	8	1	12.440000
